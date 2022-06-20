@@ -119,8 +119,16 @@ p {
   border: 20px solid var(--primary-color);
 }
 
+.img-weather {
+  max-height: 300px;
+}
+
+.img-travel {
+  max-height: 400px;
+}
+
 .img-fluid {
-  max-width: 100%;
+  max-width: 85%;
   height: auto;
 }
 
